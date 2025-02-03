@@ -15,6 +15,4 @@ In this project, we perform two types of analysis using machine learning:
 - **Airbnb Price Prediction**: Predict the price of an Airbnb listing based on various features.
 - **HR Management Analysis**: Predict employee attrition and evaluate performance and salary predictions.
 
-## Approach
 
-### 1. **Airbnb Price Prediction**
